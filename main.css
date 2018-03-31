@@ -1,3 +1,18 @@
 body {
     background-color: lightyellow;
 }
+
+.planet {
+    width: 30%;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.planet-image {
+    width: 200px;
+    height: 200px;
+}
+
+.hide {
+    display: none;
+}
