@@ -17,21 +17,39 @@ const buildDomString = (planetsArray) => {
     console.log("planetsArray", planetsArray);
     let domString = '';
     planetsArray.forEach((planet) => {
-      domString +=  `<div>`;
+      domString +=  `<div class="planet">`;
       domString +=      `<h1>${planet.name}</h1>`;
-      domString +=      `<img class="planet-image" src="${planet.imageURL}" alt="">`;
-      domString +=      `<p>${planet.description}</p>`;
-      domString +=      `<p>${planet.isGasPlanet}</p>`;
-      domString +=      `<p>${planet.numberOfMoons}</p>`;
-      domString +=      `<p>${planet.nameOfLargestMoon}</p>`;
+      domString +=      `<img class="hide planet-image" src="${planet.imageURL}" alt="">`;
+    //   domString +=      `<p>${planet.description}</p>`;
+    //   domString +=      `<p>${planet.isGasPlanet}</p>`;
+    //   domString +=      `<p>${planet.numberOfMoons}</p>`;
+    //   domString +=      `<p>${planet.nameOfLargestMoon}</p>`;
       domString +=  `</div>`;
-      console.log(planet);
     });
     
     printToDom(domString, 'milkyWay')
+    planetEvents();
 };
 
-// buildDomString(planets);
+const planetEvents = () => {
+    const planets = document.getElementsByClassName("planet");
+   
+    for (let i=0; i < planets.length; i++) {
+        console.log(planets[i]);
+        planets[i].addEventListener("mouseenter", hoverPlanets);
+        planets[i].addEventListener("mouseleave", showPlanets)
+    }
+};
+
+const hoverPlanets = (e) => {
+ e.target.children[0].classList.add("hide");
+ e.target.children[1].classList.remove("hide");
+};
+
+const showPlanets = (e) => {
+    e.target.children[0].classList.remove("hide");
+    e.target.children[1].classList.add("hide");
+   };
 
 function executeThisCodeIfXHRFails(){
     console.log("something went wrong");
