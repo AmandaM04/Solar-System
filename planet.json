@@ -4,23 +4,23 @@
         "name": "Mercury",
         "imageURL": "https://en.wikipedia.org/wiki/Mercury_(planet)#/media/File:Mercury_in_color_-_Prockter07-edit1.jpg",
         "description": "Mercury is the smallest and least massive of the eight planets. Its low surface gravity makes holding on to an atmosphere in the best of circumstances a challenge. But Mercury isn't ideally located for an atmosphere. Orbiting only a few million miles from the sun, the rocky planet is constantly bombarded by solar weather. The fast-moving winds blowing off the star constantly bombard Mercury, crashing charged particles into the planet's surface. Both the particles themselves and the heat they produce kick material up from the outer layer of the planet, sending it flying into the air. The heaviest atoms drift back to the surface, while the lightest are affected by gravity and by pressure from solar photons. The result is a tenuous atmosphere known as an exosphere.",
-        "isGasPanet": "No",
+        "isGasPlanet": "No",
         "numberOfMoons": 0,
-        "nameOfLargestMoon": ""
+        "nameOfLargestMoon": "Has No Moons!"
         },
         {
             "name": "Venus",
             "imageURL": "https://en.wikipedia.org/wiki/Venus#/media/File:Venus-real_color.jpg",
             "description": "Venus, which is about the same size as Earth, has a thick, toxic carbon monoxide-dominated atmosphere that traps heat, making it the hottest planet in the solar system. Much of its surface is marked with volcanoes and deep canyons — the biggest of which is 4,000 miles long. Few spacecraft have ever penetrated Venus’s thick atmosphere and survived. And it’s not just spacecraft that have trouble getting through the atmosphere — there are fewer crater impacts on Venus than other planets, because only the largest meteors can make it . The planet is hostile to life as we know it.",
-            "isGasPanet": "No",
+            "isGasPlanet": "No",
             "numberOfMoons": 0,
-            "nameOfLargestMoon": ""
+            "nameOfLargestMoon": "Has No Moons!"
         },
         {
             "name": "Earth",
             "imageURL": "https://en.wikipedia.org/wiki/Earth#/media/File:The_Earth_seen_from_Apollo_17.jpg",
             "description": "Earth is the largest, and the only one that has extensive regions of liquid water. Wateris necessary for life as we know it, and life is abundant on Earth — from the deepest oceans to the highest mountains. Like the other terrestrial planets, Earth has a rocky surface with mountains and canyons, and a heavy metal core. Earth’s atmosphere contains water vapor, which helps to moderate daily temperatures. The planet has regular seasons for much of its surface; regions closer to the equator tend to stay warm, while spots closer to the poles are cooler and in the winter, icy. The Earth's climate, however, is warming up due to climate change associated with human-generated greenhouse gases, which act as a trap for escaping heat.",
-            "isGasPanet": "No",
+            "isGasPlanet": "No",
             "numberOfMoons": "1",
             "nameOfLargestMoon": "Luna"
         },
@@ -28,7 +28,7 @@
             "name": "Mars",
             "imageURL": "https://en.wikipedia.org/wiki/Mars#/media/File:OSIRIS_Mars_true_color.jpg",
             "description": "Mars has the largest mountain in the solar system, rising 78,000 feet above the surface. Much of the surface is very old and filled with craters, but there are geologically newer areas of the planet as well. At the Martian poles are polar ice caps that shrink in size during the Martian spring and summer. Mars is less dense than Earth and has a smaller magnetic field, which is indicative of a solid core, rather than a liquid one. While scientists have found no evidence of life yet, Mars is known to have water ice and organics — some of the ingredients for living things. Evidence of methane (in varying amounts) has also been found in some parts of the surface. Methane is produced from both living and non-living processes.",
-            "isGasPanet": "No",
+            "isGasPlanet": "No",
             "numberOfMoons": "2",
             "nameOfLargestMoon": "Phobos"
         },
@@ -36,7 +36,7 @@
             "name": "Jupiter",
             "imageURL": "https://en.wikipedia.org/wiki/Jupiter#/media/File:Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
             "description": "The largest planet in our solar system, Jupiter could hold more than 1,200 Earths. It has dozens of moons and na enormous magnetic field. The planet, mostly a giant ball of gas and liquid, also has a dark ring system composed of fine dust grains. The atmosphere of Jupiter is 90 percent hydrogen. ",
-            "isGasPanet": "Yes",
+            "isGasPlanet": "Yes",
             "numberOfMoons": "67",
             "nameOfLargestMoon": "Ganymede"
         },
@@ -44,7 +44,7 @@
             "name": "Saturn",
             "imageURL": "https://en.wikipedia.org/wiki/Saturn#/media/File:Saturn_during_Equinox.jpg",
             "description": "The gas giant Saturn contains many of the same components as the sun. Although it is the solar system's second largest planet, it lacks the necessary mass to undergo the fusion needed to power a star. Still, its gaseous composition — and the stunningly beautiful rings that surround it — make it one of the more interesting object in the solar system. It is predominantly composed of hydrogen and helium, the two basic gases of the universe. The planet also bears traces of ices containing ammonia, methane, and water. Unlike the rocky terrestrial planets, gas giants such as Saturn lack the layered crust-mantle-core structure, because they formed differently from their rocky siblings.",
-            "isGasPanet": "Yes",
+            "isGasPlanet": "Yes",
             "numberOfMoons": "62",
             "nameOfLargestMoon": "Titan"
         },
@@ -52,7 +52,7 @@
             "name": "Uranus",
             "imageURL": "https://en.wikipedia.org/wiki/Uranus#/media/File:Uranus2.jpg",
             "description": "Far, far from the sun, Uranus has a blue-green atmosphere that hints at its makeup. Uranus is the second least dense planet in the solar system, indicating that it is made up mostly of ices. Unlike Jupiter and Saturn, which are composed predominantly of hydrogen and helium, Uranus contains only a small portion of these light elements. While most planets have rocky molten cores, the center of Uranus is thought to contain icy materials. The liquid core makes up 80 percent of the mass of the planet, mostly comprised of water, methane, and ammonia ice, though it only extends to about 20 percent of the radius.",
-            "isGasPanet": "Yes",
+            "isGasPlanet": "Yes",
             "numberOfMoons": "27",
             "nameOfLargestMoon": "Miranda"
         },
@@ -60,7 +60,7 @@
             "name": "Neptune",
             "imageURL": "https://en.wikipedia.org/wiki/Neptune#/media/File:Neptune_Full.jpg",
             "description": "Neptune, like Uranus, is one of the two outer planets known as an 'ice giant.' Made up of more ices than Jupiter and Saturn, the chilly body almost seems to be in a class by itself. Neptune is the third most massive planet. Like the rest of the gas giants, Neptune has no definite surface layer. Instead, the gas transits into a slushy ice and water layer. The water-ammonia ocean serves as the planet's mantle, and contains more than ten times the mass of Earth.",
-            "isGasPanet": "Yes",
+            "isGasPlanet": "Yes",
             "numberOfMoons": "14",
             "nameOfLargestMoon": "Triton"
         },
@@ -68,7 +68,7 @@
             "name": "Pluto",
             "imageURL": "https://en.wikipedia.org/wiki/Pluto#/media/File:Nh-pluto-in-true-color_2x_JPEG-edit-frame.jpg",
             "description": "Discovered in 1930 and once considered a major planet, Pluto was reclassified as a dwarf planet in 2006. Pluto is sometimes considered a double planet system because its largest moon, Charon, is about half Pluto's size. It take Pluto 248 years to orbit the Sun. Lying 30 to 50 times as far from the sun as Earth, Pluto's composition bears a greater resemblance to the rocky terrestrial planets than the gas giants that are its neighbors. New Horizons revealed that the surface of the dwarf planet appears to be dominated by nitrogen ice, with methane and carbon mixed in. ",
-            "isGasPanet": "No",
+            "isGasPlanet": "No",
             "numberOfMoons": "5",
             "nameOfLargestMoon": "Charon"
         }
