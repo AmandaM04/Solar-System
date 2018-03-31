@@ -26,7 +26,7 @@
         },
         {
             "name": "Mars",
-            "imageURL": "https://en.wikipedia.org/wiki/Mars#/media/File:OSIRIS_Mars_true_color.jpg",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/1920px-Neptune_Full.jpg",
             "description": "Mars has the largest mountain in the solar system, rising 78,000 feet above the surface. Much of the surface is very old and filled with craters, but there are geologically newer areas of the planet as well. At the Martian poles are polar ice caps that shrink in size during the Martian spring and summer. Mars is less dense than Earth and has a smaller magnetic field, which is indicative of a solid core, rather than a liquid one. While scientists have found no evidence of life yet, Mars is known to have water ice and organics — some of the ingredients for living things. Evidence of methane (in varying amounts) has also been found in some parts of the surface. Methane is produced from both living and non-living processes.",
             "isGasPlanet": "No",
             "numberOfMoons": "2",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Jupiter",
-            "imageURL": "https://en.wikipedia.org/wiki/Jupiter#/media/File:Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/1920px-Neptune_Full.jpg",
             "description": "The largest planet in our solar system, Jupiter could hold more than 1,200 Earths. It has dozens of moons and na enormous magnetic field. The planet, mostly a giant ball of gas and liquid, also has a dark ring system composed of fine dust grains. The atmosphere of Jupiter is 90 percent hydrogen. ",
             "isGasPlanet": "Yes",
             "numberOfMoons": "67",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Saturn",
-            "imageURL": "https://en.wikipedia.org/wiki/Saturn#/media/File:Saturn_during_Equinox.jpg",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/1920px-Neptune_Full.jpg",
             "description": "The gas giant Saturn contains many of the same components as the sun. Although it is the solar system's second largest planet, it lacks the necessary mass to undergo the fusion needed to power a star. Still, its gaseous composition — and the stunningly beautiful rings that surround it — make it one of the more interesting object in the solar system. It is predominantly composed of hydrogen and helium, the two basic gases of the universe. The planet also bears traces of ices containing ammonia, methane, and water. Unlike the rocky terrestrial planets, gas giants such as Saturn lack the layered crust-mantle-core structure, because they formed differently from their rocky siblings.",
             "isGasPlanet": "Yes",
             "numberOfMoons": "62",
@@ -50,7 +50,7 @@
         },
         {
             "name": "Uranus",
-            "imageURL": "https://en.wikipedia.org/wiki/Uranus#/media/File:Uranus2.jpg",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/1920px-Neptune_Full.jpg",
             "description": "Far, far from the sun, Uranus has a blue-green atmosphere that hints at its makeup. Uranus is the second least dense planet in the solar system, indicating that it is made up mostly of ices. Unlike Jupiter and Saturn, which are composed predominantly of hydrogen and helium, Uranus contains only a small portion of these light elements. While most planets have rocky molten cores, the center of Uranus is thought to contain icy materials. The liquid core makes up 80 percent of the mass of the planet, mostly comprised of water, methane, and ammonia ice, though it only extends to about 20 percent of the radius.",
             "isGasPlanet": "Yes",
             "numberOfMoons": "27",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Neptune",
-            "imageURL": "https://en.wikipedia.org/wiki/Neptune#/media/File:Neptune_Full.jpg",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/1920px-Neptune_Full.jpg",
             "description": "Neptune, like Uranus, is one of the two outer planets known as an 'ice giant.' Made up of more ices than Jupiter and Saturn, the chilly body almost seems to be in a class by itself. Neptune is the third most massive planet. Like the rest of the gas giants, Neptune has no definite surface layer. Instead, the gas transits into a slushy ice and water layer. The water-ammonia ocean serves as the planet's mantle, and contains more than ten times the mass of Earth.",
             "isGasPlanet": "Yes",
             "numberOfMoons": "14",
