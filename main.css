@@ -3,8 +3,9 @@ body {
 
 }
 
-#milky-way {
-
+.milkyWay{
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
 
 .planet {
