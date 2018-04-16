@@ -18,6 +18,7 @@ const buildDomString = (planetsArray) => {
     let domString = '';
     let i = 0;
     planetsArray.forEach((planet) => {
+    //   domString +=  `<div class="grid-wrapper">`;
       domString +=  `<div class="planet" id="${i}">`;
       domString +=      `<h1>${planet.name}</h1>`;
       domString +=      `<img class="hide planet-image" src="${planet.imageURL}" alt="">`;
@@ -26,6 +27,7 @@ const buildDomString = (planetsArray) => {
     //   domString +=      `<p>${planet.numberOfMoons}</p>`;
     //   domString +=      `<p>${planet.nameOfLargestMoon}</p>`;
       domString +=  `</div>`;
+    //   domString +=  `</div>`;
     i++;
     });
    
