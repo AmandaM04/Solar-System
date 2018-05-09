@@ -4,27 +4,31 @@ body {
 }
 
 .milkyWay{
-    display: grid;
-    grid-template-columns: auto auto auto;
+  flex-wrap: wrap;
+  align-content: center;
+  display: inline-grid;
+  /* display: grid; */
+    /* grid-template-columns: auto auto auto; */
 }
 
 .planet {
-    width: 30%;
-    height: 300px;
+    width: 400px;
+    height: 450px;
     border: 1px solid black;
-    display: inline-block;
-
+    display: inline-grid;
 }
 
-.planet-image {
+.pic {
     width: 200px;
-    pointer-events: none;
-    margin: auto;
+    height: 200px;
+    /* pointer-events: none; */
+    /* position: absolute; */
+     margin: auto;
 }
 
-.hide {
-    display: none;
-   
+.myhide {
+    opacity: 0;
+
 }
 
 #red-x {
@@ -37,4 +41,12 @@ body {
     width: 400px;
     font-size: 16px;
     margin: 20px;
+}
+
+.planet-image {
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  font-size: 20px;
 }
