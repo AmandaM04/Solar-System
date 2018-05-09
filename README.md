@@ -1,11 +1,14 @@
 # Solar System
 
 ## Description
-Created cards with the different planets inside the solar system. On hover the image of the planet will show. Once you move your mouse from the card, the name of the planet will show. You are able to click on the planet and open a single card that will give a description and other helpful information. There is also a search bar that allows you to search for planets. 
+Created cards with the different planets inside the solar system. On hover the image of the planet will show. Once you move your mouse from the card, the name of the planet will show. You are able to click on the planet and open a single card that will give a description and other helpful information. There is also a search bar that allows you to search for planets.
 
 ## Screenshot
-![webpage]
-()
+![https://raw.githubusercontent.com/AmandaM04/Solar-System/master/screenshots/Only%20Title%20Showing.png
+https://raw.githubusercontent.com/AmandaM04/Solar-System/master/screenshots/On%20Hover%20Image%20shows.png
+https://raw.githubusercontent.com/AmandaM04/Solar-System/master/screenshots/BigPlanet.png
+https://raw.githubusercontent.com/AmandaM04/Solar-System/master/screenshots/Search.png]
+
 
 ## How To Run
 1. Clone down this repo, and cd into the project
