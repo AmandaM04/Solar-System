@@ -117,10 +117,10 @@ const startApplication = () => {
       domString +=      `<h1>${planetArray[clicked].name}</h1>`;
       domString +=      `<button id="red-x"><img src="${redXURL}" width="20px"> </button>`;
       domString +=      `<img class="planet-image" src="${planetArray[clicked].imageURL}" alt="">`;
-      domString +=      `<p>${planetArray[clicked].description}</p>`;
-      domString +=      `<p>${planetArray[clicked].isGasPlanet}</p>`;
-      domString +=      `<p>${planetArray[clicked].numberOfMoons}</p>`;
-      domString +=      `<p>${planetArray[clicked].nameOfLargestMoon}</p>`;
+      domString +=      `<p>Description: ${planetArray[clicked].description}</p>`;
+      domString +=      `<p>Gas Planet: ${planetArray[clicked].isGasPlanet}</p>`;
+      domString +=      `<p>Number of Moons: ${planetArray[clicked].numberOfMoons}</p>`;
+      domString +=      `<p>Largest Moon: ${planetArray[clicked].nameOfLargestMoon}</p>`;
       domString +=  `</div>`;
 
       //console.log(domString);

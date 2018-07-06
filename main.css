@@ -1,5 +1,13 @@
 body {
-    background-color: lightyellow;
+    background-color: black;
+
+}
+
+.title {
+  text-align: center;
+  color: azure;
+  font-weight: bolder;
+  font-size: 100px;
 
 }
 
@@ -7,6 +15,7 @@ body {
   flex-wrap: wrap;
   align-content: center;
   display: inline-grid;
+  text-align: center;
   /* display: grid; */
     /* grid-template-columns: auto auto auto; */
 }
@@ -14,8 +23,10 @@ body {
 .planet {
     width: 400px;
     height: 450px;
-    border: 1px solid black;
+    border: 1px solid white;
+    border-radius: 15px 50px 30px;
     display: inline-grid;
+    align-content: center;
 }
 
 .pic {
@@ -49,4 +60,18 @@ body {
   height: 400px;
   margin: auto;
   font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.bigPlanet {
+  width: 800px;
+  height: 750px;
+  margin: auto;
+  border: 1px solid white;
+  border-radius: 15px;
+  color: white;
 }
